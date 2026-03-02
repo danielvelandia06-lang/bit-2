@@ -1,3 +1,3 @@
-# bit-2
+# bit-back
 
-hola, bienvenido al proyecto numero dos de bit
+ada y dirigida con la funcionalidad de poner anotar tus tareas a realizar y poder marcarlas si estas ya fueron completada.
